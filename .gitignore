@@ -1,0 +1,5 @@
+/vendor/
+tests/_output/*
+composer.lock
+codeception.yml
+.idea

@@ -1,0 +1,18 @@
+{
+    "name": "stevewest/robo-changelog",
+    "description": "Comprehensive Robo tasks for working with change logs.",
+    "keywords": ["robo", "change", "log", "changelog", "task"],
+    "require": {
+        "stevewest/changelog": "^1.2"
+    },
+    "license": "MIT",
+    "require-dev": {
+        "codeception/codeception": "^2.1",
+        "codegyre/robo": "^0.7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "RoboChangeLog\\": "src"
+        }
+    }
+}
